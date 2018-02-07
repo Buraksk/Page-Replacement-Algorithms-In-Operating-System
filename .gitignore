@@ -1,8 +1,11 @@
-*/*
+!.gitignore
+*
+!*/
+!/Java-Implementation/src/**
+!/C-Implementation-Using-Linkedlist/main/**
+!/C-Implementation-Using-Linkedlist/include/**
 
-*.*
 
-!Page-ReplacementAlgorithms-c-implemantation-using-linkedlist/main
-!Page-ReplacementAlgorithms-c-implemantation-using-linkedlist/include
 
-!Page-ReplacementAlgorithms-java-implemantation/src
+
+
